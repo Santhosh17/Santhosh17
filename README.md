@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Software Quality Assurance Test Automation Consultant from Berlin Germany</h3>
 
 - 💬 Ask me about **Testing, Test Automation, Selenium, Cucumber, TestNG, Maven, Junit, Manual Testing, Exploratory Testing, Cypress, RestAssured, SoapUI**
-- 📫 How to reach me **santhosh.s17@live.com +49-15213881019 +91-9738460313**
+- 📫 How to reach me **santhosh.s17@live.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/https://www.linkedin.com/in/santhoshsid/" target="blank">
