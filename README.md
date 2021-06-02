@@ -43,6 +43,10 @@
 	<a href="https://cucumber.io/" target="_blank">
 		<img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" width="40" height="40"/>
 	</a>
+	</a>
+	<a href="https://www.eclipse.org/" target="_blank">
+		<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse" width="40" height="40"/>
+	</a>
 </p>
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh17&show_icons=true&locale=en&layout=compact" alt="santhosh17"/>
