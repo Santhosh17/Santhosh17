@@ -47,6 +47,9 @@
 		<img src="https://github-profile-trophy.vercel.app/?username=santhosh17" alt="santhosh17"/>
 	</a>
 </p>
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=santhosh17&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh17"/>
+</p>
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh17&show_icons=true&locale=en&layout=compact" alt="santhosh17"/>
 </p>
@@ -56,6 +59,4 @@
 <p>
 	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh17&" alt="santhosh17"/>
 </p>
-<p align="left">
-	<img src="https://komarev.com/ghpvc/?username=santhosh17&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh17"/>
-</p>
+
