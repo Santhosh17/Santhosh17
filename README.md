@@ -41,7 +41,7 @@
 		<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" width="158" height="40"/>
 	</a>
 	<a href="https://cucumber.io/" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg/" alt="Maven" width="40" height="40"/>
+		<img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" width="40" height="40"/>
 	</a>
 </p>
 <p>
