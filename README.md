@@ -1,14 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Santhosh Siddappa</h1>
-<h3 align="center">A passionate QA Automation Engineer from Berlin Germany</h3>
-<p align="left">
-	<img src="https://komarev.com/ghpvc/?username=santhosh17&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh17"/>
-</p>
-<p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=santhosh17" alt="santhosh17"/>
-	</a>
-</p>
+<h3 align="center">A passionate Full Stack Software Quality Assurance Test Automation Consultant from Berlin Germany</h3>
+
 - 💬 Ask me about **Testing, Test Automation, Selenium, Cucumber, TestNG, Maven, Junit, Manual Testing, Exploratory Testing, Cypress, RestAssured, SoapUI**
 - 📫 How to reach me **santhosh.s17@live.com +49-15213881019 +91-9738460313**
 <h3 align="left">Connect with me:</h3>
@@ -47,8 +40,17 @@
 	<a href="https://www.eclipse.org/" target="_blank">
 		<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse" width="40" height="40"/>
 	</a>
-	<a href="https://www.eclipse.org/" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse" width="40" height="40"/>
+	<a href="https://code.visualstudio.com/" target="_blank">
+		<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="40" height="40"/>
+	</a>
+</p>
+
+<p align="left">
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=santhosh17" alt="santhosh17"/>
 	</a>
 </p>
 <p>
@@ -57,5 +59,8 @@
 <p>	<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh17&show_icons=true&locale=en" alt="santhosh17"/>
 </p>
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh17&" alt="santhosh17"/>
+	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh17&" alt="santhosh17"/>
+</p>
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=santhosh17&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh17"/>
 </p>
