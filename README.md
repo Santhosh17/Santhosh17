@@ -54,7 +54,7 @@
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh17&show_icons=true&locale=en&layout=compact" alt="santhosh17"/>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh17&show_icons=true&locale=en" alt="santhosh17"/>
+<p>	<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh17&show_icons=true&locale=en" alt="santhosh17"/>
 </p>
 <p>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh17&" alt="santhosh17"/>
