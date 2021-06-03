@@ -21,7 +21,13 @@
 		<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" width="158" height="40"/>
 	</a>
 	<a href="https://cucumber.io/" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" width="40" height="40"/>
+		<img src="https://automationpanda.files.wordpress.com/2017/10/cucumber.png" alt="Cucumber" width="123" height="40"/>
+	</a>
+	<a href="http://www.thucydides.info" target="_blank">
+		<img src="http://www.thucydides.info/img/serenity-bdd.png" alt="Serenity BDD" width="192" height="40"/>
+	</a>
+	<a href="https://junit.org/" target="_blank">
+		<img src="https://junit.org/junit4/images/junit5-banner.png" alt="Junit" width="131" height="40"/>
 	</a>
 	<a href="https://www.eclipse.org/" target="_blank">
 		<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse" width="40" height="40"/>
