@@ -53,8 +53,11 @@
 	<a href="https://www.atlassian.com/software/jira" target="_blank">
 		<img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg" alt="JIRA" width="308" height="40"/>
 	</a>
+	<a href="https://www.getxray.app/" target="_blank">
+		<img src="https://user-images.githubusercontent.com/11166836/72537100-68457b80-3873-11ea-97a9-7c3b1025362d.png" alt="XRAY" width="99" height="40"/>
+	</a>
 	<a href="https://www.atlassian.com/software/confluence" target="_blank">
-		<img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:d6e2d2db-e58a-40f7-9d1a-d6d22a335c96/Confluence-blue.svg" alt="JIRA" width="324" height="40"/>
+		<img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:d6e2d2db-e58a-40f7-9d1a-d6d22a335c96/Confluence-blue.svg" alt="CONFLUENCE" width="324" height="40"/>
 	</a>
 </p>
 <p align="left">
