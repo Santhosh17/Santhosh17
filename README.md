@@ -56,6 +56,15 @@
 	<a href="https://www.postman.com" target="_blank">
 		<img src="https://seeklogo.com/images/P/postman-logo-5110850F84-seeklogo.com.png" alt="POSTMAN" width="143" height="40"/>
 	</a>
+	<a href="https://rest-assured.io" target="_blank">
+		<img src="https://rest-assured.io/img/name-transparent.png" alt="RESTASSURED" width="240" height="35"/>
+	</a>
+	<a href="https://www.soapui.org/" target="_blank">
+		<img src="https://static1.smartbear.co/smartbearbrand/media/images/logos/product-only/su_product-only-clr.svg" alt="SOAPUI" width="140" height="40"/>
+	</a>
+	<a href="https://smartbear.com/product/ready-api/overview" target="_blank">
+		<img src="https://static1.smartbear.co/smartbearbrand/media/images/logos/product-only/ra_product-only-clr_no-tm.svg" alt="READYAPI" width="140" height="40"/>
+	</a>
 	<a href="https://www.atlassian.com/software/jira" target="_blank">
 		<img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg" alt="JIRA" width="308" height="40"/>
 	</a>
