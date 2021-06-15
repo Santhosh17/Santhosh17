@@ -53,6 +53,9 @@
 	<a href="https://www.jenkins.io" target="_blank">
 		<img src="https://www.jenkins.io/sites/default/files/jenkins_logo.png" alt="Jenkins" width="124" height="40"/>
 	</a>
+	<a href="https://www.postman.com" target="_blank">
+		<img src="https://seeklogo.com/images/P/postman-logo-5110850F84-seeklogo.com.png" alt="POSTMAN" width="143" height="40"/>
+	</a>
 	<a href="https://www.atlassian.com/software/jira" target="_blank">
 		<img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg" alt="JIRA" width="308" height="40"/>
 	</a>
