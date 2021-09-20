@@ -21,7 +21,7 @@
 		<img src="https://automationpanda.files.wordpress.com/2017/10/cucumber.png" alt="Cucumber" width="123" height="40"/>
 	</a>
 	<a href="http://www.thucydides.info" target="_blank">
-		<img src="http://www.thucydides.info/img/serenity-bdd.png" alt="Serenity BDD" width="192" height="40"/>
+		<img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="Serenity BDD" width="192" height="40"/>
 	</a>
 	<a href="https://junit.org/" target="_blank">
 		<img src="https://junit.org/junit4/images/junit5-banner.png" alt="Junit" width="131" height="40"/>
