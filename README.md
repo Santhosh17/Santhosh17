@@ -25,7 +25,7 @@
 		<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="cypress" width="124" height="40"/>
 	</a>														    
 	<a href="https://www.selenium.dev" target="_blank">
-		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/512px-Selenium_logo.svg.png" alt="selenium" width="154" height="40"/>
 	</a>
 	<a href="https://cucumber.io/" target="_blank">
 		<img src="https://automationpanda.files.wordpress.com/2017/10/cucumber.png" alt="Cucumber" width="123" height="40"/>
