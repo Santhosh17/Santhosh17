@@ -21,6 +21,9 @@
 	<a href="https://www.typescriptlang.org/" target="_blank">
 		<img src="https://iconape.com/wp-content/files/fh/110909/png/typescript.png" alt="typescript" width="40" height="40"/>
 	</a>
+	<a href="https://www.cypress.io" target="_blank">
+		<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="cypress" width="124" height="40"/>
+	</a>														    
 	<a href="https://www.selenium.dev" target="_blank">
 		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 	</a>
@@ -44,9 +47,6 @@
 	</a>
 	<a href="https://code.visualstudio.com/" target="_blank">
 		<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/>
-	</a>
-	<a href="https://www.cypress.io" target="_blank">
-		<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="cypress" width="124" height="40"/>
 	</a>
 	<a href="https://mochajs.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
