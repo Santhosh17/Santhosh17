@@ -5,7 +5,7 @@
 - 📫 How to reach me **santhosh.s17@live.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://www.linkedin.com/in/santhoshsid/" target="blank">
+	<a href="https://www.linkedin.com/in/santhoshsid/" target=”_blank”">
 		<img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/santhoshsid/" height="40" width="40"/>
 	</a>
 </p>
