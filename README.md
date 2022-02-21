@@ -45,6 +45,9 @@
 	<a href="https://code.visualstudio.com/" target="_blank">
 		<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/>
 	</a>
+	<a href="https://applitools.com/" target="_blank">
+		<img src="https://theme.zdassets.com/theme_assets/2306977/802e613e6a008150428a52e5be87ab009adfa8a0.svg" alt="Applitools" width="192" height="40"/>
+	</a>
 	<a href="http://www.thucydides.info" target="_blank">
 		<img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="Serenity BDD" width="192" height="40"/>
 	</a>
