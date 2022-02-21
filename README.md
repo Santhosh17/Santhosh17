@@ -25,14 +25,20 @@
 <h3 align="left"> Tools & Tech Stack:</h3>
 <p align="left">																    
 	<a href="https://www.cypress.io" target="_blank">
-		<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="cypress" width="124" height="40"/>
+		<img src="https://seekicon.com/free-icon-download/cypress_1.svg" alt="cypress" width="40" height="40"/>
 	</a>														    
 	<a href="https://www.selenium.dev" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/512px-Selenium_logo.svg.png" alt="selenium" width="154" height="40"/>
-	</a>
+		<img src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="selenium" width="40" height="40"/>
+	</a>  
 	<a href="https://cucumber.io/" target="_blank">
-		<img src="https://automationpanda.files.wordpress.com/2017/10/cucumber.png" alt="Cucumber" width="123" height="40"/>
+		<img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40" height="40"/>
 	</a>
+	<a href="https://mochajs.org" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank">
+		<img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git" width="40" height="40"/>
+	</a>																
 	<a href="http://www.thucydides.info" target="_blank">
 		<img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="Serenity BDD" width="192" height="40"/>
 	</a>
@@ -53,12 +59,6 @@
 	</a>
 	<a href="https://code.visualstudio.com/" target="_blank">
 		<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/>
-	</a>
-	<a href="https://mochajs.org" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-	</a>
-	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://git-scm.com/images/logo@2x.png" alt="git" width="96" height="40"/>
 	</a>
 	<a href="https://www.jenkins.io" target="_blank">
 		<img src="https://www.jenkins.io/sites/default/files/jenkins_logo.png" alt="Jenkins" width="124" height="40"/>
