@@ -22,7 +22,7 @@
 		<img src="https://iconape.com/wp-content/files/fh/110909/png/typescript.png" alt="typescript" width="40" height="40"/>
 	</a>
 </p>																    
-<h3 align="left"> Tools:</h3>
+<h3 align="left"> Tools & Tech Stack:</h3>
 <p align="left">																    
 	<a href="https://www.cypress.io" target="_blank">
 		<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="cypress" width="124" height="40"/>
