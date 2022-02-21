@@ -38,7 +38,13 @@
 	</a>
 	<a href="https://git-scm.com/" target="_blank">
 		<img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git" width="40" height="40"/>
-	</a>																
+	</a>												   
+	<a href="https://www.eclipse.org/" target="_blank">
+		<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse" width="40" height="40"/>
+	</a>
+	<a href="https://code.visualstudio.com/" target="_blank">
+		<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/>
+	</a>
 	<a href="http://www.thucydides.info" target="_blank">
 		<img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="Serenity BDD" width="192" height="40"/>
 	</a>
@@ -53,12 +59,6 @@
 	</a>
 	<a href="https://maven.apache.org/" target="_blank">
 		<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" width="138" height="35"/>
-	</a>
-	<a href="https://www.eclipse.org/" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse" width="40" height="40"/>
-	</a>
-	<a href="https://code.visualstudio.com/" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/>
 	</a>
 	<a href="https://www.jenkins.io" target="_blank">
 		<img src="https://www.jenkins.io/sites/default/files/jenkins_logo.png" alt="Jenkins" width="124" height="40"/>
