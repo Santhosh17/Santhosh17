@@ -9,7 +9,7 @@
 		<img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/santhoshsid/" height="40" width="40"/>
 	</a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
 	<a href="https://www.java.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank" rel="noopener noreferrer" alt="java" width="40" height="40"/>
@@ -21,6 +21,9 @@
 	<a href="https://www.typescriptlang.org/" target="_blank">
 		<img src="https://iconape.com/wp-content/files/fh/110909/png/typescript.png" alt="typescript" width="40" height="40"/>
 	</a>
+</p>																    
+<h3 align="left"> Tools:</h3>
+<p align="left">																    
 	<a href="https://www.cypress.io" target="_blank">
 		<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" alt="cypress" width="124" height="40"/>
 	</a>														    
@@ -32,6 +35,9 @@
 	</a>
 	<a href="http://www.thucydides.info" target="_blank">
 		<img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="Serenity BDD" width="192" height="40"/>
+	</a>
+	<a href="https://jmeter.apache.org/" target="_blank">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Apache_JMeter.png/300px-Apache_JMeter.png" alt="Jmeter" width="142" height="40"/>
 	</a>
 	<a href="https://junit.org/" target="_blank">
 		<img src="https://junit.org/junit4/images/junit5-banner.png" alt="Junit" width="131" height="40"/>
