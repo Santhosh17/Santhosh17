@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Santhosh Siddappa</h1>
-<h3 align="center">A passionate Full Stack Software Quality Assurance Test Automation Architect | Consultant | Freelancer | from Germany</h3>
+<h3 align="center">A passionate Full Stack Software Quality Assurance Test Automation Architect | Consultant | Freelancer | with more than 11 years of experience in Software Quality Assurance from Australia India UK Germany</h3>
 - 💬 Ask me about **Testing, Test Automation, Selenium, Cypress, Cucumber, TestNG, Maven, Junit, Manual Testing, Exploratory Testing, RestAssured, SoapUI**
 - 📫 How to reach me **santhosh.s17@live.com**
 <h3 align="left">Connect with me:</h3>
