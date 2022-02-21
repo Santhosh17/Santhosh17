@@ -33,6 +33,9 @@
 	<a href="https://cucumber.io/" target="_blank">
 		<img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40" height="40"/>
 	</a>
+	<a href="https://serenity-bdd.info/" target="_blank">
+		<img src="https://avatars.githubusercontent.com/u/9455201?s=200&v=4" alt="Serenity BDD" width="192" height="40"/>
+	</a>
 	<a href="https://mochajs.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
 	</a>
@@ -47,9 +50,6 @@
 	</a>
 	<a href="https://applitools.com/" target="_blank">
 		<img src="https://theme.zdassets.com/theme_assets/2306977/802e613e6a008150428a52e5be87ab009adfa8a0.svg" alt="Applitools" width="192" height="40"/>
-	</a>
-	<a href="http://www.thucydides.info" target="_blank">
-		<img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="Serenity BDD" width="192" height="40"/>
 	</a>
 	<a href="https://jmeter.apache.org/" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Apache_JMeter.png/300px-Apache_JMeter.png" alt="Jmeter" width="142" height="40"/>
