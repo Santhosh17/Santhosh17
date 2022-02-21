@@ -34,7 +34,7 @@
 		<img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40" height="40"/>
 	</a>
 	<a href="https://serenity-bdd.info/" target="_blank">
-		<img src="https://avatars.githubusercontent.com/u/9455201?s=200&v=4" alt="Serenity BDD" width="192" height="40"/>
+		<img src="https://avatars.githubusercontent.com/u/9455201?s=200&v=4" alt="Serenity BDD" width="40" height="40"/>
 	</a>
 	<a href="https://mochajs.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
