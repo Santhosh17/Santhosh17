@@ -91,11 +91,7 @@
 		<img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:d6e2d2db-e58a-40f7-9d1a-d6d22a335c96/Confluence-blue.svg" alt="CONFLUENCE" width="324" height="40"/>
 	</a>
 </p>
-<p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=santhosh17" alt="santhosh17"/>
-	</a>
-</p>
+
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=santhosh17&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh17"/>
 </p>
