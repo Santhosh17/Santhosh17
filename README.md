@@ -14,7 +14,7 @@
 
 ### 🎯 About Me
 
-* 🚀 **Role:** QA Lead & Automation Architect with over a decade of experience building scalable test frameworks.
+* 🚀 **Role:** Test Automation Architect with over 15+ years of experience building scalable test frameworks.
 * 🧪 **Specialties:** Web, API, Performance & Cross-Browser Automation Architecture.
 * 🛠️ **Core Tech:** Playwright, Cypress, Selenium, Java, TypeScript, JavaScript, Cucumber BDD, RestAssured.
 * 💬 **Ask me about:** Automation Strategy, CI/CD Pipeline Integration, Framework Architecture & Quality Governance.
@@ -25,21 +25,43 @@
 
 <p align="left">
   <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
 </p>
 
 <p align="left">
   <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  </a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  </a>
+  <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </a>
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  </a>
 </p>
 
 ---
