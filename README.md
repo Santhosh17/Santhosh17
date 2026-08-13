@@ -14,10 +14,10 @@
 
 ### 🎯 About Me
 
-* 🚀 **Role:** Test Automation Architect with over 15+ years of experience building scalable test frameworks.
-* 🧪 **Specialties:** Web, API, Performance & Cross-Browser Automation Architecture.
-* 🛠️ **Core Tech:** Playwright, Cypress, Selenium, Java, TypeScript, JavaScript, Python, Cucumber BDD, RestAssured.
-* 💬 **Ask me about:** Automation Strategy, CI/CD Pipeline Integration, Framework Architecture & Quality Governance.
+* 🚀 **Role:** Senior Test Automation Architect specializing in modern E2E test frameworks and AI-augmented quality assurance.
+* 🧪 **Specialties:** Cross-Browser Automation, Contract/API Verification, Performance Testing & LLM Evaluation.
+* 🛠️ **Core Tech:** Playwright, Cypress, Selenium, TypeScript, Java, Python, RestAssured, JMeter.
+* 💬 **Ask me about:** Framework Design Patterns, AI in Test Automation, Shift-Left QA Strategy, and CI/CD Pipeline Integration.
 
 ---
 
@@ -51,6 +51,31 @@
   <!-- Goethe A1 -->
   <a href="#">
     <img src="https://img.shields.io/badge/Goethe_Institut-Start_Deutsch_1_(A1)-008B47?style=for-the-badge&logo=duolingo&logoColor=white" alt="Goethe A1"/>
+  </a>
+</p>
+
+---
+
+### 🤖 AI & Generative QA Stack
+
+<p align="left">
+  <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  </a>
+  <a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  </a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini"/>
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  </a>
+  <a href="https://ollama.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
   </a>
 </p>
 
