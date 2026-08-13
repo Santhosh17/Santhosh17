@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santhoshsid/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:santhosh.s17@live.com">
-    <img src="https://img.shields.io/badge/Email-santhosh.s17%40live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-santhosh.s17%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 * 🚀 **Role:** Test Automation Architect with over 15+ years of experience building scalable test frameworks.
 * 🧪 **Specialties:** Web, API, Performance & Cross-Browser Automation Architecture.
-* 🛠️ **Core Tech:** Playwright, Cypress, Selenium, Java, TypeScript, JavaScript, Cucumber BDD, RestAssured.
+* 🛠️ **Core Tech:** Playwright, Cypress, Selenium, Java, TypeScript, JavaScript, Python, Cucumber BDD, RestAssured.
 * 💬 **Ask me about:** Automation Strategy, CI/CD Pipeline Integration, Framework Architecture & Quality Governance.
 
 ---
@@ -42,11 +42,11 @@
   </a>
   <!-- SAFe 6 PO/PM -->
   <a href="https://www.credly.com/earner/earned/badge/c1830664-a13f-465c-a746-1825dd9faeeb" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SAFe_6-Product_Owner_%2F_Product_Manager-5C2D91?style=for-the-badge&logo=scaledagile&logoColor=white" alt="SAFe 6 PO/PM"/>
+    <img src="https://img.shields.io/badge/SAFe_6-Product_Owner_%2F_Product_Manager-6A2B84?style=for-the-badge&logo=scaledagile&logoColor=white" alt="SAFe 6 PO/PM"/>
   </a>
   <!-- SAFe 6 Practitioner -->
   <a href="https://www.credly.com/badges/8d2bd4e4-e2d8-4691-b238-53dbbb4ed669/linked_in_profile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SAFe_6-Certified_Practitioner-5C2D91?style=for-the-badge&logo=scaledagile&logoColor=white" alt="SAFe 6 Practitioner"/>
+    <img src="https://img.shields.io/badge/SAFe_6-Certified_Practitioner-6A2B84?style=for-the-badge&logo=scaledagile&logoColor=white" alt="SAFe 6 Practitioner"/>
   </a>
   <!-- Goethe A1 -->
   <a href="#">
@@ -61,13 +61,16 @@
 <p align="left">
   <!-- Core Languages -->
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
 </p>
 
@@ -77,7 +80,7 @@
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+    <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black" alt="Cypress"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
@@ -98,7 +101,7 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Confluence-0747A6?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
   </a>
 </p>
 
