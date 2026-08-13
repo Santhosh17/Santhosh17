@@ -71,6 +71,9 @@
   <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
   </a>
+  <a href="https://openclaw.ai/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/OpenClaw-E03131?style=for-the-badge&logo=probot&logoColor=white" alt="OpenClaw"/>
+  </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   </a>
@@ -161,7 +164,7 @@
 * 🏗️ **Framework Architecture:** Building modular, parallelized test execution suites (Playwright/TypeScript & Java/Selenium).
 * 🔄 **CI/CD Quality Gates:** Embedding automated test runs, linting, and artifact reporting into build pipelines using Jenkins & Docker.
 * 🧩 **Contract & API Automation:** Validating REST and SOAP interfaces using Postman & RestAssured prior to UI automation layers.
-* 🤖 **AI Quality Evaluation:** Testing model outputs, prompt robustness, and integrating LLMs into automated test generation.
+* 🤖 **AI Quality Evaluation:** Testing model outputs, prompt robustness, and integrating autonomous agents (e.g., OpenClaw) into continuous test automation workflows.
 
 ---
 
