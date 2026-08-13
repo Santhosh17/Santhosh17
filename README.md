@@ -100,7 +100,7 @@
 </p>
 
 <p align="left">
-  <!-- Frameworks, Build & API Tools -->
+  <!-- Frameworks, Cloud, DevOps & Tools -->
   <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   </a>
@@ -116,23 +116,29 @@
   <a href="https://rest-assured.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/RestAssured-C21325?style=for-the-badge&logo=postman&logoColor=white" alt="RestAssured"/>
   </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   </a>
   <a href="https://jmeter.apache.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/>
   </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
@@ -147,8 +153,8 @@
 ### ⚙️ QA Strategy & Architecture Focus
 
 * 🏗️ **Framework Architecture:** Building modular, parallelized test execution suites (Playwright/TypeScript & Java/Selenium).
-* 🔄 **CI/CD Quality Gates:** Embedding automated test runs, linting, and artifact reporting into build pipelines.
-* 🧩 **Contract & API Automation:** Validating REST and SOAP interfaces prior to UI automation layers.
+* 🔄 **CI/CD Quality Gates:** Embedding automated test runs, linting, and artifact reporting into build pipelines using Jenkins & Docker.
+* 🧩 **Contract & API Automation:** Validating REST and SOAP interfaces using Postman & RestAssured prior to UI automation layers.
 * 🤖 **AI Quality Evaluation:** Testing model outputs, prompt robustness, and integrating LLMs into automated test generation.
 
 ---
