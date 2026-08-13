@@ -100,7 +100,7 @@
 </p>
 
 <p align="left">
-  <!-- Frameworks, Cloud, DevOps & Tools -->
+  <!-- Frameworks, Platforms, DevOps & Tools -->
   <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   </a>
@@ -136,6 +136,12 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  </a>
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
