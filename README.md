@@ -75,15 +75,19 @@
   </a>
 </p>
 
+<!-- GitHub Stats & Languages Section -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=santhosh17&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh17"/>
+  <img src="https://komarev.com/ghpvc/?username=santhosh17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh17&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh17&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh17&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=santhosh17&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh17" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=santhosh17&theme=dark" alt="GitHub Streak" />
 </p>
