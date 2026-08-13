@@ -25,31 +25,31 @@
 
 <p align="left">
   <!-- ISTQB CT-GenAI -->
-  <a href="https://isqi.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://app.skillsclub.com/credentials/MjE5NDQ5LTBkNTFhYmQ0YTJkZmNkODEyYWNkODcxNWE1ZWRiNWQ5YzJkODY4YmE1OGRiYjcxMGFhYjYyNmY0ZDllNjZkNTkt" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ISTQB-Certified_Tester_Generative_AI_(CT--GenAI)-005A9C?style=for-the-badge&logo=google-gemini&logoColor=white" alt="ISTQB CT-GenAI"/>
   </a>
   <!-- ISTQB Foundation -->
-  <a href="https://www.istqb.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://scr.istqb.org/?name=Santhosh+Siddappa&number=OO85684" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ISTQB-Certified_Tester_Foundation_Level-005A9C?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISTQB Foundation"/>
   </a>
   <!-- PSPO I -->
-  <a href="https://www.scrum.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/badges/fa9dd2b1-b92c-4180-83a6-e72ea7d76e51" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Scrum.org-Professional_Scrum_Product_Owner_I_(PSPO_I)-00828A?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="PSPO I"/>
   </a>
   <!-- PSFS -->
-  <a href="https://www.scrum.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/badges/6c926dcb-d3fc-492e-bd0c-fa5bf64f5300/linked_in_profile" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Scrum.org-Professional_Scrum_Facilitation_Skills-00828A?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="PSFS"/>
   </a>
   <!-- SAFe 6 PO/PM -->
-  <a href="https://scaledagile.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/earner/earned/badge/c1830664-a13f-465c-a746-1825dd9faeeb" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SAFe_6-Product_Owner_%2F_Product_Manager-5C2D91?style=for-the-badge&logo=scaledagile&logoColor=white" alt="SAFe 6 PO/PM"/>
   </a>
   <!-- SAFe 6 Practitioner -->
-  <a href="https://scaledagile.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/badges/8d2bd4e4-e2d8-4691-b238-53dbbb4ed669/linked_in_profile" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SAFe_6-Certified_Practitioner-5C2D91?style=for-the-badge&logo=scaledagile&logoColor=white" alt="SAFe 6 Practitioner"/>
   </a>
   <!-- Goethe A1 -->
-  <a href="https://www.goethe.de/" target="_blank" rel="noopener noreferrer">
+  <a href="#">
     <img src="https://img.shields.io/badge/Goethe_Institut-Start_Deutsch_1_(A1)-008B47?style=for-the-badge&logo=duolingo&logoColor=white" alt="Goethe A1"/>
   </a>
 </p>
@@ -96,6 +96,9 @@
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Confluence-0747A6?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
   </a>
 </p>
 
