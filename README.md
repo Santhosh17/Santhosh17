@@ -1,93 +1,51 @@
 <h1 align="center">Hi 👋, I'm Santhosh Siddappa</h1>
-<h3 align="center">A passionate Full Stack Software Quality Assurance Test Automation Architect | Consultant | Freelancer | with more than Decade of experience in Software Quality Assurance </h3>
+<h3 align="center">Senior Quality Assurance & Test Automation Architect | Lead</h3>
 
-<ul>
-  <li>💬 Ask me about <strong>Testing, Test Automation, Selenium, Cypress, Cucumber, TestNG, Maven, Junit, Manual Testing, Exploratory Testing, RestAssured, SoapUI</strong></li>
-  <li>📫 How to reach me <strong>santhosh.s17@live.com</strong></li>
-</ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/santhoshsid/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:santhosh.s17@live.com">
+    <img src="https://img.shields.io/badge/Email-santhosh.s17%40live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Tools & Tech Stack:</h3>
-<p align="left">
-  <a href="https://www.cypress.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40"/>
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-  </a>
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="JMeter" width="40" height="40"/>
-  </a>
-  <a href="https://junit.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="Confluence" width="40" height="40"/>
-  </a>
-</p>
+### 🎯 About Me
 
-<!-- GitHub Stats & Languages Section -->
+* 🚀 **Role:** QA Lead & Automation Architect with over a decade of experience building scalable test frameworks.
+* 🧪 **Specialties:** Web, API, Performance & Cross-Browser Automation Architecture.
+* 🛠️ **Core Tech:** Playwright, Cypress, Selenium, Java, TypeScript, JavaScript, Cucumber BDD, RestAssured.
+* 💬 **Ask me about:** Automation Strategy, CI/CD Pipeline Integration, Framework Architecture & Quality Governance.
+
+---
+
+### 💻 Automation & Engineering Stack
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=santhosh17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=santhosh17&layout=compact&theme=dark" alt="Top Languages" />
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=santhosh17&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+---
+
+### 📊 Profile Analytics
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=santhosh17&theme=dark" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=santhosh17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
